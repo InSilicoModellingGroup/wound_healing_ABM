@@ -1,3 +1,26 @@
+Welcome to this Repository. This code simulates the simple epidermal wound healing 
+dynamcis. Given by biology all cells engage to core biological processes such as 
+migration proliferation and secretion. Parameters of all behaviors are listed below:
+
+Migration
+1)migration_probability_ 
+2)migration_rate_
+
+Proliferation
+1)proliferation_probability_
+2)proliferation_rate_
+3)proliferation_threshhold_
+4)local_conc_density_
+5)local_population_density_
+
+Secretion
+1)secretion_rate_
+2)secretion_threshold_
+3)apoptosis_value_
+
+Each Parameter can be controlled by the corresponding function of the cell of 
+interest in the private section of the behavior Struct *: public Behavior {}
+
 # woundhealing_cells
 
 This repository contains a template for a BioDynaMo simulation. It consists of 
