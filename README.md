@@ -2,7 +2,7 @@ Welcome to this Repository. This code simulates the simple epidermal wound heali
 dynamcis. Given by biology all cells engage to core biological processes such as 
 migration proliferation and secretion. Parameters of all behaviors are listed below:
 
-Migration
+Migration /
 1)migration_probability_ 
 2)migration_rate_
 
