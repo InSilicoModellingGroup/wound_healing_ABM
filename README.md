@@ -21,6 +21,8 @@ Secretion
 Each Parameter can be controlled by the corresponding function of the cell of 
 interest in the private section of the behavior Struct *: public Behavior {}
 
+For the folders above the parameters are adjusted to agree with the biological response which are located in.
+
 # woundhealing_cells
 
 This repository contains a template for a BioDynaMo simulation. It consists of 
